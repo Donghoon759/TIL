@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "TIL(Today I learned)(190309)"
-date: 2019-03-09
+title: "TIL(Today I learned)(190316)"
+date: 2019-03-16
 blog : true
 author : Donghoon Song
 summary : "Today I learned"
